@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Justin Chong's GitHub stats](https://github-readme-stats.vercel.app/api?username=cchsing&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cchsing&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
